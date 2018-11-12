@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "296901017631",
+    "firebase_url": "https://store-it-5c946.firebaseio.com",
+    "project_id": "store-it-5c946",
+    "storage_bucket": "store-it-5c946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296901017631:android:9c7658804bea4823",
+        "android_client_info": {
+          "package_name": "com.storeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296901017631-r0orlm6c02t5igkld86qgsoqiaj4pu7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4K89kE3iv2t6nQ-O5gvmay1mao31EoI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296901017631:android:c479af8d27987520",
+        "android_client_info": {
+          "package_name": "com.vormadal.storeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296901017631-r0orlm6c02t5igkld86qgsoqiaj4pu7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4K89kE3iv2t6nQ-O5gvmay1mao31EoI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
